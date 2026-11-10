@@ -35,4 +35,5 @@ publish_output/
 
 # Node / Frontend build artifacts
 node_modules/
-dist/
+/dist/
+!**/wwwroot/lib/**/dist/
